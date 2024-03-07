@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057438066932",
+    "project_id": "neologism-e353b",
+    "storage_bucket": "neologism-e353b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057438066932:android:3bc869dfb9001f57bd96a1",
+        "android_client_info": {
+          "package_name": "com.example.neologism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057438066932-jaoda9juor1mnd8c9p703e0pqmjrv9qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeVUxFtuGRvIbH3rujJMKIF40hrr8SG04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057438066932-jaoda9juor1mnd8c9p703e0pqmjrv9qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
